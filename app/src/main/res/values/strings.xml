@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Install</string>
+    <string name="backend_owner">ChrisMartin00</string>
+    <string name="backend_repo">app_install</string>
+    <string name="empty_state">No installable APK assets found.</string>
+    <string name="loading">Loading release assets...</string>
+</resources>
